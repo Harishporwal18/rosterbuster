@@ -86,8 +86,8 @@ class FlightModels extends Command
         $htmlParse =  $this->parseHTMLDom();
         $headerData = $this->prepareFlightModellHeader($htmlParse);
         $Flightdata = $this->prepareFlightModels($headerData);
-        $flightmodels =  json_encode($Flightdata);
-        echo "<pre>";print_r($flightmodels);
+        $flightmodels =  json_encode($Flightdata,JSON_PRETTY_PRINT);
+        echo "<pre>";print_r($flightmodels)."</pre>";
         return $flightmodels;
     }
     /**

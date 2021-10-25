@@ -13,7 +13,7 @@
 	Run the program
 	-   php artisan serve 
     --  Run the application from command line
-    ![image](https://user-images.githubusercontent.com/11938460/138692482-deac912c-8d3d-45ba-99e6-197b8ea63464.png)
+    ![image](https://user-images.githubusercontent.com/11938460/138694405-76387229-9c83-4642-8f76-1f52654bf287.png)
    -- Run the application in browser
    ![image](https://user-images.githubusercontent.com/11938460/138693235-b40b1144-12fd-4aa1-b283-46ff9cdace00.png)
 

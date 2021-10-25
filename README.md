@@ -14,13 +14,14 @@
 	-   php artisan serve 
     --  Run the application from command line
     ![image](https://user-images.githubusercontent.com/11938460/138694405-76387229-9c83-4642-8f76-1f52654bf287.png)
-   -- Run the application in browser
-   ![image](https://user-images.githubusercontent.com/11938460/138693235-b40b1144-12fd-4aa1-b283-46ff9cdace00.png)
+  -- Run the application in browser
+     ![image](https://user-images.githubusercontent.com/11938460/138693235-b40b1144-12fd-4aa1-b283-46ff9cdace00.png)
 
     
 ## step 4
 	Run PHPUnit
 	 - php ./vendor/bin/phpunit --testdox
-     ![image](https://user-images.githubusercontent.com/11938460/138694066-71066e62-22a5-41c6-82d9-bf0378d8e4f7.png)
+     ![image](https://user-images.githubusercontent.com/11938460/138694675-2fe694a3-aa28-49d0-a84a-739bef5ca68a.png)
+
      
 ## Thank you
